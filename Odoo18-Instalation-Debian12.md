@@ -21,7 +21,7 @@ Reverse proxy is no need for me.
 
 
 
-#Original post
+# Original post
 
 How to Install Odoo 18 on Debian 12
 November 18, 2024 by Jeff Wilson
